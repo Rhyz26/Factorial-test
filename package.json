@@ -1,0 +1,18 @@
+{
+  "name": "factorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factorial.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "RAYMOND NJAGALA",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.5.0"
+  }
+}
