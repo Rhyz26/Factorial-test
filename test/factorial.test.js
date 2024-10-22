@@ -1,3 +1,5 @@
+// RAYMOND NJAGALA
+
 // test/factorial.test.js
 const { expect } = require("chai");
 const factorial = require("../factorial"); // We are bringing in the factorial function

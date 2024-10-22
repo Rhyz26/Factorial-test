@@ -1,3 +1,5 @@
+// RAYMOND NJAGALA
+
 // factorial.js
 function factorial(n) {
     if (n < 0) {
